@@ -21,6 +21,7 @@ This project aims to optimize supply chain logistics through geospatial analysis
 **GIS Tools**:
 - DB Browser for `SQLite` for database management.
 - `QGIS` or `ArcGIS` for advanced mapping and data visualization.
+  
 **Data Sources**
 This project utilizes open-source geospatial and traffic data. Data sources include:
 
