@@ -23,7 +23,7 @@ This project aims to optimize supply chain logistics through geospatial analysis
 - DB Browser for `SQLite` for database management.
 - `QGIS` or `ArcGIS` for advanced mapping and data visualization.
   
-**Data Sources**
+**Data Sources:**
 This project utilizes open-source geospatial and traffic data. Data sources include:
 
 **Road Networks**: OpenStreetMap data, loaded via `OSMNX` for Python.
@@ -53,18 +53,16 @@ supply-chain-optimization/
 │
 ├── README.md                       # Project description and setup instructions
 └── requirements.txt                # Python dependencies
-Setup Instructions
-Prerequisites
-Python 3.8+: Install Python from python.org.
 
-SQLite with SpatiaLite Extension: Install SpatiaLite to add geospatial capabilities to SQLite.
+# Setup Instructions
+## Prerequisites
+**1. Python 3.8+**
 
-Python Libraries: Install required Python packages using requirements.txt.
+**2. SQLite with SpatiaLite Extension**
 
-bash
-Copy code
-pip install -r requirements.txt
-Step 1: Database Setup
+**3. Python Libraries**
+
+## Step 1: Database Setup
 Create the SQLite Database:
 
 Open DB Browser for SQLite and create a new database named supply_chain_optimization.db in the db folder.
