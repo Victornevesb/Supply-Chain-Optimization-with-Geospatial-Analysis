@@ -17,6 +17,7 @@ This project aims to optimize supply chain logistics through geospatial analysis
 - `GeoPandas`: Geospatial data handling.
 - `NetworkX`: Graph-based route optimization.
 - `Folium` or `OSMNX`: Interactive mapping and OpenStreetMap data handling.
+  
 **Database**: `SQLite` with SpatiaLite extension for geospatial data support.
 **GIS Tools**:
 - DB Browser for `SQLite` for database management.
